@@ -1,0 +1,16 @@
+{
+  "name": "jest-es6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Artem Zakharchenko",
+  "license": "MIT",
+  "dependencies": {
+    "babel-jest": "^26.1.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^26.1.0",
+    "ramda": "^0.27.0"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test jest"
+  }
+}
