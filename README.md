@@ -4,7 +4,7 @@
 
 - Add `babel.config.js`
 - Create a custom Babel environment for tests called `test`.
-- Use the `` plugin for your `test` Babel environment.
+- Use the `transform-es2015-modules-commonjs` plugin for your `test` Babel environment.
 
 ### Jest
 
